@@ -40,7 +40,7 @@ Install [Helm](https://helm.sh/docs/intro/install/)
 
 Add the "stable" repository:
 
-`helm repo add stable https://kubernetes-charts.storage.googleapis.com`
+`helm repo add stable https://charts.helm.sh/stable`
 
 Update Helm's repositories(similar to `apt-get update)`:
 
