@@ -135,7 +135,7 @@ Add the face: `nfdc face create tcp4://<PUBLISHER_HOST>`
 
 Add the route: `nfdc route add /k8s tcp4://<PUBLISHER_HOST>`
 
-Pull the file: `ndncatchuncks /k8s/1GB > /tmp/1GB.tmp`
+Pull the file: `ndncatchunks /k8s/1GB > /tmp/1GB.tmp`
 
 This example uses TCP to pull the published file `1GB` with path `/k8s/1GB`.
 
